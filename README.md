@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/crypto.svg)](https://pkg.go.dev/golang.org/x/crypto)
 
-This repository holds supplementary Go cryptography libraries.
+This repository holds supplementary Go cryptography libraries. This (jeffwilliams) version has been modified to add the fix for https://github.com/golang/go/issues/67152 created by Nicola Murino, found at https://go-review.googlesource.com/c/crypto/+/562756
 
 ## Download/Install
 
